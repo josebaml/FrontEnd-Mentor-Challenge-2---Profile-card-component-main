@@ -132,32 +132,3 @@ body {
     left: calc(21.875rem/2  - 6rem/2);
   }
 }
-/*
-@media screen and (min-width: 900px) {
-
-  body{
-    background-position: right 50vw bottom 50vh, left 50vw top 50vh;
-  }
-}
-
-@media screen and (min-width: 1200px) {
-
-  body{
-    background-position: -25rem -28.125rem, 37.5rem 21.875rem;
-  }
-}
-
-@media screen and (min-width: 1440px) {
-
-  body{
-    background-position: -18.75rem -28.125rem, 40.625rem 28.125rem;
-  }
-}
-
-@media screen and (min-width: 1750px) {
-
-  body{
-    background-position: -3.125rem -28.125rem, 56.25rem 28.125rem;
-  }
-}
-*/
